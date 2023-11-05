@@ -1,6 +1,6 @@
 # Labyrinth
 
-Labyrinth is a simple game created with Java
+Labyrinth is a simple game created in Java
 
 ## Description
 
